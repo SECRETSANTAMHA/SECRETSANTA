@@ -270,7 +270,7 @@ for row in range(4):
 
 if solved_check(board):
     st.success("KUDOS! you cracked it!")
-    st.write("The password is: 138")
+    st.write("The password is: 000")
 
 
 
